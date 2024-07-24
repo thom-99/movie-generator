@@ -1,5 +1,6 @@
 # movie-generator
-contains a program that will generate movies based on a modified rating system to enhance the relevance of lesser known movies.
+contains a program that will generate movies based on a modified rating system that enhances the relevance of lesser known movies.
+
 the program is based on the IMDB public database which is of couse updated every now and then, therefore if you want to visualize movies up to date you must 
 download yourself the up-to-date versions of the datasetes and run the program on those!!
 # how it works
