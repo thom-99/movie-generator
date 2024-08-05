@@ -3,7 +3,7 @@ contains a python script that will generate movies based on various parameters c
 
 the program is based on the IMDB public database which is of couse updated every now and then, therefore if you want to visualize movies up to date you must 
 download yourself the up-to-date versions of the datasetes and run the program on those!!
-download the datasets [here](https://datasets.imdbws.com/)
+download the datasets [here](https://datasets.imdbws.com/)     
 you'll need only two files: **title.basics.tsv.gz**  and  **title.ratings.tsv.gz**
 # how it works
 you can generate movies using a function called: generate_movies(Lenght,Genres,Date,Top,n) 
