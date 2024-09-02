@@ -13,7 +13,7 @@ as you can see it has 5 argumens:
 
 **Genres** = takes in a LIST of genres written as strings (write each genre as shown in the list of allowed genres)
 
-**Date** = simplu input the a year (ex.1990) and only movies from that year up to now will be selected (1990-This year)
+**Date** = simply input the a year (ex.1990) and only movies from that year up to now will be selected (1990-This year)
 
 **Top** = how good do you want your movies to be? top 1%? top 20%? Just input the number as an integer (ex. Top=25)
 
